@@ -70,11 +70,11 @@ img {
 @media only screen and (max-width: 768px) {
 
     #millones {
-        font-size: 50pt !important;
+        font-size: 79pt !important;
         font-family: 'BebasNeue', sans-serif;
         color: #FFF !important;
         left: 76%;
-        top: 13%;
+        top: 6%;
         font-style: normal;
     }
 
