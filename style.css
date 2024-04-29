@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'BebasNeue';
-    src: url(fonts/BebasNeue-Book.otf);
+    src: url(fonts/BebasNeue-Bold.otf);
     font-weight: regular;
 }
 
@@ -70,10 +70,10 @@ img {
 @media only screen and (max-width: 768px) {
 
     #millones {
-        font-size: 40pt !important;
+        font-size: 50pt !important;
         font-family: 'BebasNeue', sans-serif;
         color: #FFF !important;
-        left: 74%;
+        left: 76%;
         top: 13%;
         font-style: normal;
     }
